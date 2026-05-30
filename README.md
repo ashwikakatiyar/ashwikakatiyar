@@ -6,7 +6,7 @@ I'm a Computer Science student at The University of Texas at Austin
 
 [LinkedIn](https://www.linkedin.com/in/ashwika-katiyar)
 
-[Email](ak56584@my.utexas.edu)
+[Email](ashwikakatiyar@gmail.com)
 <!--
 **ashwikakatiyar/ashwikakatiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
