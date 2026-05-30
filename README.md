@@ -1,10 +1,11 @@
 ## Hi, I'm Ashwika Katiyar 👋
 
-I am a Computer Science student at The University of Texas at Austin
+I'm a Computer Science student at The University of Texas at Austin
 
 ## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/ashwika-katiyar)
+
 [Email](ak56584@my.utexas.edu)
 <!--
 **ashwikakatiyar/ashwikakatiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
