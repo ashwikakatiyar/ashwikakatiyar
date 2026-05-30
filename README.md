@@ -4,9 +4,9 @@ I'm a Computer Science student at The University of Texas at Austin
 
 ## Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/ashwika-katiyar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwika-katiyar)
 
-[Email](ashwikakatiyar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashwikakatiyar@gmail.com)
 <!--
 **ashwikakatiyar/ashwikakatiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
